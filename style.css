@@ -16,3 +16,8 @@ display: flex;
 justify-content: space-between;
 align-items: center;	
 }
+
+.social_network {
+	color: #0F7173;
+	height: 50%;
+}
