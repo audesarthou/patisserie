@@ -1,1 +1,18 @@
-img	
+body {
+font-family: 'Quicksand', sans-serif;
+font-family: 'Cookie', cursive;	
+}
+
+.logo > img {
+height: 130px;
+width: 130px;
+object-fit: cover;
+}
+
+.navbar {
+text-decoration: none;	
+font-family: 'Quicksand', sans-serif;
+display: flex;
+justify-content: space-between;
+align-items: center;	
+}
