@@ -1,3 +1,24 @@
-a {
-	color:pink;
+body {
+font-family: 'Quicksand', sans-serif;	
+}
+
+.img-height{
+  height: 30vh;
+}
+
+.img-fit{
+  object-fit: cover;
+}
+
+h5{
+color: #0F7173;
+}
+
+.card{
+	box-shadow: 1px 1px 6px grey;
+}
+
+.card-price{
+	text-align: right;
+	color: #0F7173; 
 }
