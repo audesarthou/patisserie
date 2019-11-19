@@ -1,3 +1,20 @@
-a {
-	color: red;
+.article {
+width: 60vw;
+margin: auto;
+padding: 20px;
+margin-top: 20px;
+display: flex;
+justify-content: space-between;
+}
+
+.card {
+margin-right: 20px;
+}
+
+.butn {
+color: #0F7173;
+}
+
+.butn:hover {
+background-color: #0F7173;
 }
