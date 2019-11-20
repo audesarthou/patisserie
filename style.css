@@ -9,10 +9,20 @@ width: 130px;
 object-fit: cover;
 }
 
+.fixed-nav-bar {
+position: fixe;
+en haut: 0;
+gauche: 0;
+z-index: 9999;
+largeur: 100%;
+hauteur: 50px;
+couleur de fond: # 00000;
+}
+
 .navbar a {
 font-family: 'Quicksand', sans-serif;
 font-weight: bold;
-font-size:12px;
+font-size:17px;
 color: #0F7173;
 text-decoration: none;
 display: flex;
@@ -20,20 +30,8 @@ justify-content: space-between;
 align-items: center;	
 }
 
-.banner {
-font-family: 'Quicksand', sans-serif;
-color: #0F7173;
-display: flex;
-justify-content: space-between;
-}
-
 .navbar a:hover {
 color:#19C1C4;
-}
-
-.social_network {
-color: #0F7173;
-height: 50%;
 }
 
 .btn_newsletter {
@@ -44,6 +42,25 @@ color: #0F7173;
 
 .btn_newsletter:hover {
 color:#19C1C4;
+}
+
+.social_network {
+color: #0F7173;
+height: 50%;
+}
+
+.carousel {
+font-family: 'Quicksand', sans-serif;
+font-weight: bold;
+color: white;
+object-fit: cover;
+}
+
+.banner {
+font-family: 'Quicksand', sans-serif;
+color: #0F7173;
+display: flex;
+justify-content: space-between;
 }
 
 .partners_link a {
