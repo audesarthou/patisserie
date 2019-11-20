@@ -1,3 +1,4 @@
-a {
-	color:blue;
+.col-12 {
+	display: flex;
+	justify-content: space-around;
 }
