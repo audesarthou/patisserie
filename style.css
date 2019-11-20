@@ -10,13 +10,16 @@ object-fit: cover;
 }
 
 .fixed-nav-bar {
-position: fixe;
-en haut: 0;
-gauche: 0;
+position: fixed;
+top: 0;
+left: 0;
 z-index: 9999;
-largeur: 100%;
-hauteur: 50px;
-couleur de fond: # 00000;
+width: 100%;
+height: 50px;
+
+}
+.navbar {
+	background-color: white;
 }
 
 .navbar a {
@@ -28,6 +31,7 @@ text-decoration: none;
 display: flex;
 justify-content: space-between;
 align-items: center;	
+
 }
 
 .navbar a:hover {

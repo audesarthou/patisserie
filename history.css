@@ -1,3 +1,50 @@
-a {
-	color:blue;
+.container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.top {
+	width: 100%;
+}
+
+.history {
+	width: 50%;
+	font-family: 'Quicksand', sans-serif;
+	font-size:13px;
+	color: #0F7173;
+}
+
+h1 {
+	font-family: 'Cookie', cursive;
+	font size: 10px;
+}
+
+p {
+	text-align: justify;
+}
+
+.bottom mt-3 {
+	font-family: 'Quicksand', sans-serif;
+	font-size:10px;
+	color: black;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.img-height{
+  height: 30vh;
+}
+
+.img-fit{
+  object-fit: cover;
+}
+
+h5{
+color: #0F7173;
+}
+
+.card{
+	box-shadow: 1px 1px 6px grey;
 }
