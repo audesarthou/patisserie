@@ -1,4 +1,24 @@
-.col-12 {
-	display: flex;
-	justify-content: space-around;
+.card {
+	object-fit: cover;
+	box-shadow: 1px 1px 6px grey;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 14px;
+	text-align: justify;
+	color:black;
+	height: 90vh;
+}
+
+h5 {
+	color: #0F7173;
+	font-family: 'Cookie', sans-serif;
+	font-size: 25px;
+}
+
+.img-height {
+ 	 height: 62vh;
+ 	 object-fit: cover;
+}
+
+.center-card {
+	
 }
