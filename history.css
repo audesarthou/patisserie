@@ -1,50 +1,53 @@
-.container {
+.top {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-}
-
-.top {
-	width: 100%;
-}
-
-.history {
-	width: 50%;
-	font-family: 'Quicksand', sans-serif;
-	font-size:13px;
-	color: #0F7173;
 }
 
 h1 {
 	font-family: 'Cookie', cursive;
-	font size: 10px;
+	font size: 13px;
+	color: #0F7173;
 }
 
 p {
+	font-family: 'Quicksand', sans-serif;
 	text-align: justify;
+	color: black;
+	font size: 10px;
+	width: 85%
 }
 
-.bottom mt-3 {
-	font-family: 'Quicksand', sans-serif;
-	font-size:10px;
-	color: black;
+.bottom {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
 }
 
-.img-height{
-  height: 30vh;
+.card {
+  	object-fit: cover;
+  	box-shadow: 1px 1px 6px grey;
+	width: 33%;
+	height: 330px;
 }
 
-.img-fit{
-  object-fit: cover;
+.card-text {
+	text-align: justify;
+	font-family: 'Quicksand', sans-serif;
+	font-size:11px;
+	color: black;
 }
 
-h5{
-color: #0F7173;
+h5 {
+	font-family: 'Cookie', cursive;
+	font size: 20px;	
+	color: #0F7173;
+	text-align: center;
 }
 
-.card{
-	box-shadow: 1px 1px 6px grey;
+.card-img-top {
+	width: 150px;
+	height: 150px;
 }
+
+
