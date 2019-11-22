@@ -60,6 +60,10 @@ color: white;
 object-fit: cover;
 }
 
+.margintop140 {
+margin-top: 140px
+}
+
 .banner {
 font-family: 'Quicksand', sans-serif;
 color: #0F7173;
