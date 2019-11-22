@@ -2,23 +2,27 @@ body {
 font-family: 'Quicksand', sans-serif;	
 }
 
-.img-height{
+.img-height {
   height: 30vh;
 }
 
-.img-fit{
+.img-fit {
   object-fit: cover;
 }
 
-h5{
+h5 {
 color: #0F7173;
 }
 
-.card{
-	box-shadow: 1px 1px 6px grey;
+.card {
+box-shadow: 1px 1px 6px grey;
 }
 
-.card-price{
-	text-align: right;
-	color: #0F7173; 
+.card-price {
+text-align: right;
+color: #0F7173; 
+}
+
+.margintop140 {
+	margin-top: 140px
 }
