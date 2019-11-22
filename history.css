@@ -1,3 +1,53 @@
-a {
-	color:blue;
+.top {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
 }
+
+h1 {
+	font-family: 'Cookie', cursive;
+	font size: 13px;
+	color: #0F7173;
+}
+
+p {
+	font-family: 'Quicksand', sans-serif;
+	text-align: justify;
+	color: black;
+	font size: 10px;
+	width: 85%
+}
+
+.bottom {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.card {
+  	object-fit: cover;
+  	box-shadow: 1px 1px 6px grey;
+	width: 33%;
+	height: 330px;
+}
+
+.card-text {
+	text-align: justify;
+	font-family: 'Quicksand', sans-serif;
+	font-size:11px;
+	color: black;
+}
+
+h5 {
+	font-family: 'Cookie', cursive;
+	font size: 20px;	
+	color: #0F7173;
+	text-align: center;
+}
+
+.card-img-top {
+	width: 150px;
+	height: 150px;
+}
+
+
