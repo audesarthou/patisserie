@@ -61,7 +61,7 @@ color: white;
 object-fit: cover;
 }
 
-.margintop140 {
+.topmarge {
 margin-top: 160px;
 }
 
@@ -90,9 +90,23 @@ font-size:14px;
 }
 
 .text-size {
-font-size: 14px;
+font-size: 16px;
 }
 
 .legal_mention {
-font-size: 14px;
+font-size: 18px;
+}
+
+.ligne_verticale {
+    width:5px;
+    border-left:1px solid gray;
+    height:210px;
+}
+
+.width {
+	width: 20%;
+}
+
+.width-contact {
+	width: 70%;
 }
