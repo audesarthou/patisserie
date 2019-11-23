@@ -72,6 +72,10 @@ display: flex;
 justify-content: space-between;
 }
 
+.center_news {
+	text-align: center;
+}
+
 .partners_link a {
 text-decoration: none;
 color: #0F7173;
