@@ -39,6 +39,7 @@ p {
 }
 
 .card-text {
+	text-align: center;
 	font-family: 'Quicksand', sans-serif;
 	font-size:13px;
 	color: black;
