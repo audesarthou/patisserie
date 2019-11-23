@@ -105,12 +105,9 @@ font-size: 18px;
     height:210px;
 }
 
-.width {
-	width: 20%;
-}
 
 .width-contact {
-	width: 70%;
+	width: 50%;
 
 }
 
@@ -125,16 +122,13 @@ font-size: 18px;
 	width: 30%;
 }
 
-.width-contact {
-	width: 70%;
-}
 
 .partners-width {
 	width: 25%;
 }
 
 .mention-width {
-	width: 20%;
+	width: 18%;
 }
 
 .flex-map {
