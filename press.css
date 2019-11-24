@@ -25,3 +25,7 @@ justify-content: center;
 .butn:hover {
 background-color: #0F7173;
 }
+
+.padding {
+  padding-left: 10px;
+}
