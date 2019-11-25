@@ -135,3 +135,9 @@ font-size: 18px;
 	display: flex;
 	justify-content: space-around;
 }
+
+.img-h {
+	height: 130px;
+	width: 130px;
+	object-fit: cover;
+}
